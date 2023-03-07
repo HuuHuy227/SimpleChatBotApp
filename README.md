@@ -9,4 +9,4 @@ Build a simple chatbot app with fastAPI and React Native
 
 Link Demo: https://www.youtube.com/watch?v=SClZhGLwq7M
 
-[![name](https://raw.githubusercontent.com/HuuHuy227/SimpleChatBotApp/main/assets/screenApp.jpg)](https://www.youtube.com/watch?v=SClZhGLwq7M)
+[![name](https://raw.githubusercontent.com/HuuHuy227/SimpleChatBotApp/main/assets/screenApp%20(2).jpg)](https://www.youtube.com/watch?v=SClZhGLwq7M)
