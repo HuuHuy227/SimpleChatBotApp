@@ -16,7 +16,7 @@ export default function App() {
   }, [])
 
   const handleOnRespone = async res => {
-      setMessage([...message, res])
+      setMessage(message => [...message, res])
       await callApi(res);
   }
 
@@ -36,8 +36,7 @@ export default function App() {
 
     if (data) {
       let respone = data.result;
-      message.push(value);
-      setMessage([...message,respone]);
+      setMessage(message => [...message, respone]);
     }
 
   };
