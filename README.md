@@ -10,6 +10,8 @@ Build a simple chatbot app with fastAPI and React Native
 
 - Fond-End: using React Native to build UI App
 
+My Model Repo: https://github.com/HuuHuy227/SimpleChatBotAPI
+
 Link Demo: https://www.youtube.com/watch?v=SClZhGLwq7M
 
 [![name](https://raw.githubusercontent.com/HuuHuy227/SimpleChatBotApp/main/assets/screenApp%20(2).jpg)](https://www.youtube.com/watch?v=SClZhGLwq7M)
