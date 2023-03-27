@@ -1,5 +1,4 @@
 # Simple ChatBot App
-
 Build a simple chatbot app with fastAPI and React Native
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1200px-PyTorch_logo_icon.svg.png" width="48"> - <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" width="48"> - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="48"> 
